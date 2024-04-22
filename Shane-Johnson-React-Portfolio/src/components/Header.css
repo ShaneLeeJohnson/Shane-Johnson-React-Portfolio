@@ -20,3 +20,7 @@
   .nav-links li {
     margin-right: 1rem;
   }
+
+  .nav-links li.active a {
+    color: black;
+  }
